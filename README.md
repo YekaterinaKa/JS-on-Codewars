@@ -1,2 +1,2 @@
 # JS-on-Codewars
-JS problems from Codewars 
+JS katas from Codewars 
