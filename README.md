@@ -1,2 +1,2 @@
 # JS-on-Codewars
-JS katas from Codewars 
+JavaScript katas from Codewars 
