@@ -1,4 +1,4 @@
 # JS-on-Codewars
-JavaScript katas from Codewar
+JavaScript katas from Codewars
 
 
